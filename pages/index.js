@@ -7,6 +7,7 @@ import UseCasesSection from '@/components/UseCasesSection';
 import FooterSection from '@/components/Footer';
 
 export default function Home() {
+  
   return (
     <div className="bg-white text-white min-h-screen">
       <Header />
